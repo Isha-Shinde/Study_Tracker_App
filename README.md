@@ -5,7 +5,6 @@ A console-based Java application designed to help students systematically log, t
 ## Platform Requirements
 
 * **Platform:** Windows NT or Linux
-* **Processor:** Intel 32-bit processor
 * **User Interface:** Command Line Interface (CLI)
 * **Technology:** Java Programming
 
